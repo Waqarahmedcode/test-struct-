@@ -1,0 +1,6 @@
+{
+  "name": "Khidmat-e-Alam Medical Camp",
+  "description": "Free Medical Camp ERP Tracking, pharmacy, expenses, and AI-powered international NGO reporting for Khidmat-e-Alam Welfare Trust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
